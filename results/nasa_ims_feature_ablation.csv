@@ -1,0 +1,8 @@
+Removed_Feature,Anomaly_Percentage,Prediction_Agreement_%,Score_Correlation,Baseline_Anomaly_%,Post_Baseline_Anomaly_%
+None (Original Model),16.59,100.0,1.0,3.03,54.73
+B3_HI,24.17,90.95,0.982,3.03,83.67
+B4_HI,15.76,94.8,0.972,3.03,51.58
+B3_Degradation_Rate,14.54,95.33,0.942,3.03,46.94
+B4_Degradation_Rate,14.25,91.73,0.964,3.03,45.83
+B3_Acceleration,14.64,92.02,0.967,3.03,47.31
+B4_Acceleration,20.43,88.76,0.953,3.03,69.39
